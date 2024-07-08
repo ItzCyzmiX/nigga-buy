@@ -175,10 +175,17 @@
 </div>   
 
 <style>
+    .row {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-content: center;
+
+    }
     @import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i');
 
     .shell{
-    padding:80px 0;
+        padding:80px 0;
     }
     .wsk-cp-product{
         background:#fff;
@@ -187,7 +194,7 @@
         box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
         position:relative;
         margin:20px auto;
-        width: 200px;
+        width: 250px;
     }
     .wsk-cp-img{
         position:absolute;
