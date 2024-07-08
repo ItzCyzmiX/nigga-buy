@@ -190,11 +190,11 @@
     }
     .wsk-cp-product{
         background:#fff;
-        padding:15px;
+        /* padding:15px; */
         border-radius:6px;
         box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
         position:relative;
-        /* margin:20px auto; */
+        margin:20px auto;
         width: 250px;
     }
     .wsk-cp-img{
