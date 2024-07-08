@@ -1,5 +1,6 @@
 <script>
-	import { NiggaCard } from "$lib/NiggaCard.svelte"
+	import NiggaCard from "$lib/NiggaCard.svelte";
+
 </script>
 
 <NiggaCard/>
