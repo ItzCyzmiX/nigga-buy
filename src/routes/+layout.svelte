@@ -35,7 +35,10 @@
 		flex-direction: column;
 		min-height: 100vh;
 	}
-
+	:global(body) {
+        font-family: 'Muli', sans-serif;
+        background:#ddd;
+    }
 	main {
 		flex: 1;
 		display: flex;
